@@ -1,0 +1,55 @@
+{
+  "_from": "cordova-plugin-pingwithhost",
+  "_id": "cordova-plugin-pingwithhost@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-JNMvNyUCqUg6KHCaS2EycIHCJW0=",
+  "_location": "/cordova-plugin-pingwithhost",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-pingwithhost",
+    "name": "cordova-plugin-pingwithhost",
+    "escapedName": "cordova-plugin-pingwithhost",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-pingwithhost/-/cordova-plugin-pingwithhost-1.0.1.tgz",
+  "_shasum": "24d32f372502a9483a28709a4b61327081c2256d",
+  "_spec": "cordova-plugin-pingwithhost",
+  "_where": "/Users/lee/Projects/cordova-hosted-client/node_modules",
+  "author": {
+    "name": "navidmlk"
+  },
+  "bugs": {
+    "url": "https://github.com/navidmalekan/pingwithhost/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-pingwithhost",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Ping Plugin With Host Name",
+  "homepage": "https://github.com/navidmalekan/pingwithhost#readme",
+  "keywords": [
+    "cordova",
+    "ping",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-pingwithhost",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navidmalekan/pingwithhost.git"
+  },
+  "version": "1.0.1"
+}

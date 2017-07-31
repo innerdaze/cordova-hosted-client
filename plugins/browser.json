@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-cache-clear": {
+            "PACKAGE_NAME": "uk.co.orbistech.hostedclient"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "uk.co.orbistech.hostedclient"
+        },
+        "cordova-plugin-ping": {
+            "PACKAGE_NAME": "uk.co.orbistech.hostedclient"
+        },
+        "cordova-plugin-remote-injection": {
+            "PACKAGE_NAME": "uk.co.orbistech.hostedclient"
+        }
+    },
+    "dependent_plugins": {}
+}
