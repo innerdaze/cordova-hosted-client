@@ -59,8 +59,8 @@ var app = {
         app.clearCache()
       }
 
-      const bkpLink = document.getElementById("bkpLink")
-      bkpLink.setAttribute("href", targetUrl)
+      const bkpLink = document.getElementById('bkpLink')
+      bkpLink.setAttribute('href', targetUrl)
       bkpLink.text = targetUrl
 
       // Here, we redirect to the web site.
