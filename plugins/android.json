@@ -21,6 +21,9 @@
         },
         "cordova-plugin-remote-injection": {
             "PACKAGE_NAME": "uk.co.orbistech.hostedclient"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "uk.co.orbistech.hostedclient"
         }
     },
     "dependent_plugins": {}

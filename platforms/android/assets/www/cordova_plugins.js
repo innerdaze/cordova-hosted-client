@@ -32,6 +32,14 @@ module.exports = [
         "clobbers": [
             "Ping"
         ]
+    },
+    {
+        "id": "onesignal-cordova-plugin.OneSignal",
+        "file": "plugins/onesignal-cordova-plugin/www/OneSignal.js",
+        "pluginId": "onesignal-cordova-plugin",
+        "clobbers": [
+            "OneSignal"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -41,7 +49,8 @@ module.exports.metadata =
     "cordova-plugin-cache-clear": "1.3.7",
     "cordova-plugin-network-information": "1.3.3",
     "cordova-plugin-ping": "0.3.1",
-    "cordova-plugin-remote-injection": "0.5.2"
+    "cordova-plugin-remote-injection": "0.5.2",
+    "onesignal-cordova-plugin": "2.1.2"
 };
 // BOTTOM OF METADATA
 });
